@@ -22,7 +22,7 @@
             show: true
           },
           edgeSymbol: ["circle", "arrow"],
-          edgeSymbolSize: 15,
+          edgeSymbolSize: [15, 20],
           edgeLabel: {
             fontSize: 20
           },
