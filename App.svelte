@@ -12,7 +12,13 @@
 	h1 {
 	  color: #000000;
 	  text-align: center;
-	  font-size: 2em;
+	  font-size: 1.5em;
 	  font-weight: 100;
+	}
+
+	div {
+	  background-color: grey;
+	  padding: 2%;
+	  margin: 0;
 	}
 </style>
