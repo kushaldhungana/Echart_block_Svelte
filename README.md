@@ -4,15 +4,15 @@
 
 Install the dependencies using:
 
-```bash
+```console
 npm install
 ```
 
-##Usage
+## Usage
 
 You can run the program using:
 
-```bash
+```console
 npm run dev
 ```
 
