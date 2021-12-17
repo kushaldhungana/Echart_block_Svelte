@@ -4,7 +4,7 @@
 </script>
 
 <div>
-	<h1>This is the implementation of Echart in {name}!</h1>
+	<h1>This is the implementation of Echart block in {name}!</h1>
 <Chart/>
 </div>
 

@@ -1,5 +1,7 @@
 # Echart_block_Svelte
 
+This program is the implementation of Echart block digram in Svelte
+
 ## Installation
 
 Install the dependencies using:
